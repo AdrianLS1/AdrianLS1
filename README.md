@@ -31,6 +31,8 @@ Hola, soy **Michael Adrian León Saavedra**, un desarrollador entusiasta con una
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianLS1&show_icons=true&theme=radical)
+
 ### ¿Por qué trabajar conmigo?
 
 - **Compromiso:** Estoy dedicado a entregar soluciones de alta calidad y a tiempo.
