@@ -39,10 +39,6 @@ Hola, soy **Michael Adrian León Saavedra**, un desarrollador entusiasta con una
 - **Flexibilidad:** Me adapto rápidamente a nuevos entornos y requisitos de proyectos.
 - **Crecimiento:** Estoy en constante aprendizaje y me esfuerzo por mejorar mis habilidades continuamente.
 
-### Mis Estadisticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianLS1&show_icons=true&theme=radical)
-
 ## Contacto
 
 - **Email:** [adrianmls0521@gmail.com](mailto:adrianmls0521@gmail.com)
